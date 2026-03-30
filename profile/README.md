@@ -1,6 +1,6 @@
 # Moyasar
 
-Moyasar is a payment infrastructure platform founded in 2018 and supervised by the Saudi Central Bank (SAMA). We connect businesses, banks, and institutions through a secure, integrated payments layer. 
+Moyasar is a payment infrastructure platform founded in 2015 and supervised by the Saudi Central Bank (SAMA). We connect businesses, banks, and institutions through a secure, integrated payments layer. 
 
 ## What We Do
 
